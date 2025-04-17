@@ -62,3 +62,9 @@ Deadline: [Set your date]
 Submission format: clone / fork this repo
 
 Bonus points for creativity (custom actions, emojis, pet types, etc.)
+```
+---
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/fb290887-6e23-4d38-bc23-7b5d1eabde7e)
+
